@@ -1,0 +1,12 @@
+React Redux maintains the state of the application in a single place called Redux store. 
+React component can get the latest state from the store as well as change the state at any time.
+
+Store: The central place to store the state of the application.
+Actions: Action is an plain object with the type of the action to be done and the input(called payload ) necessary to o the action. 
+Reducers: Reducers are pure functions used to create a new state based on the existing state and the current action.
+          It returns the newly created state. 
+Action Creators: Action creator creates an action with proper action type and data necessary for the action and returns the action.
+Component: Component can connect to the store to get the current state and dispatch action to the store
+            so that the store executes  the action and updates it's current state.
+HOC: (higher order component). A higher order component is a function which wraps a component and 
+            returns a new component.
