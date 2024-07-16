@@ -42,7 +42,7 @@ Make sure you have the following installed:
     ```
 
 ## Project Structure
-
+```
 crud-app/
 ├── public/
 ├── src/
@@ -61,6 +61,7 @@ crud-app/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
+```
 
 ## Usage
 
