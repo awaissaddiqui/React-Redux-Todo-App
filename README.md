@@ -1,6 +1,8 @@
-# CRUD App with JSON Server
+# CRUD App 
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built with React and Redux. It utilizes `redux-persist` for state persistence and Tailwind CSS for styling.
+
+<img src="./Annotation 2024-07-15 234231.png" />
 
 ## Table of Contents
 
